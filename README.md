@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergrad building a mobile app and open to collaborating on interesting projects.<br><br>Comfortable with Python & C++, particularly for IoT, robotics, and real-world systems. Learning backend and database development to become more full-stack capable.<br><br>Linux enthusiast : setup, troubleshooting, ricing, you name it.<br><br>Exploring Machine Learning with Python on the side.<br><br>Fun fact: ADHD-powered curiosity has led me to learn a lot of random (and sometimes useful) things. Ask away.
+Computer Science undergrad building a mobile app and open to collaborating on interesting projects.<br><br>Comfortable with Python & C++, particularly for IoT, robotics, and real-world systems. Learning backend and database development to become more full-stack capable.<br><br>Linux enthusiast : setup, troubleshooting, ricing, you name it.<br><br>Exploring Machine Learning with Python on the side.<br><br>Fun fact: 
 
 
 ## 🌐 Socials:
